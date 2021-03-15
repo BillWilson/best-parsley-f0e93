@@ -28,9 +28,8 @@ fields:
 - type: file
   name: content_img_path
   label: Background Image (Single Post)
-  description: >-
-    The background image of the left side in the single post. If no image added,
-    the default image specified in Header Configuration is displayed.
+  description: The background image of the left side in the single post. If no image
+    added, the default image specified in Header Configuration is displayed.
 - type: text
   name: excerpt
   label: Excerpt
